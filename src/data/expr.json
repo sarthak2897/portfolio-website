@@ -1,0 +1,17 @@
+[{
+    "company" : "Infosys Limited",
+    "designation" : "Technology Analyst",
+    "logo" : "./images/infyLogo.png",
+    "tenure" : "July 2018 - April 2021",
+    "location" : "Bengaluru",
+    "jobRole" : "Maintaining applications for improved performance by writing efficient and testable code in <b>Java(Core and Spring Boot)</b> and <b>javascript<b> and identifying opportunities for improvement.Conducting analysis,programming, testing and debugging on existing applications to polish their respective feature sets.Support continuous improvement by suggesting alternatives and automation strategies to the Business clients."
+},
+{
+    "company" : "Hashedin By Deloitte",
+    "designation" : "Software Engineer",
+    "logo" : "./images/hashedinLogo.jpg",
+    "tenure" : "May 2021 - Present",
+    "location" : "Bengaluru",
+    "jobRole" : "Creating real-time scalable,fault-tolerant,distributed systems using <b>scala, akka and apache kafka</b> and maintaining the existing applications to improve the performance and ensure smooth flow of data through the data pipeline."
+}
+]
